@@ -1,0 +1,16 @@
+- name: About Me
+  link: aboutme
+
+- name: Resources
+  children:
+    - name: Beautiful Jekyll
+      link: "http://deanattali.com/beautiful-jekyll/"
+    - name: Learn markdown
+      link: "http://www.markdowntutorial.com/"
+    - name: GitHub Pages
+      link: "https://pages.github.com/"
+    - name: About Me... Again!
+      link: aboutme
+
+- name: Author's home
+  link: "http://deanattali.com"
