@@ -134,6 +134,10 @@ defaults:
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
 link-tags: false
 
+# Include these files in production site
+include:
+  - _pages
+
 # Exclude these files from production site
 exclude:
   - Gemfile
