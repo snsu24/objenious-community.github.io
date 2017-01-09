@@ -14,9 +14,16 @@ online on our website [here](http://www.objenious.com/developpeur).
 ### Let's get started!
 {: .text-center }
 
-Video here!
+First, look at the overview video.
+{: .text-center }
+
+<iframe class="video-center" src="https://www.youtube.com/embed/uuLVgUqk1qk" frameborder="0" width="560" height="315">
+</iframe>
 
 ### Objenious KIT Overview
+{: .text-center }
+
+Find the slides used in the overview video and try the example application.
 {: .text-center }
 
 ![Objenious KIT overview](/assets/img/devkit_overview.png)

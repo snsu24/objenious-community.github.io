@@ -681,6 +681,8 @@ td.gutter {
   margin-bottom: 30px;
 }
 
+/* --- Main page topics --- */
+
 #topics .caption
 {
     color: white;
@@ -691,4 +693,14 @@ td.gutter {
     margin: 0;
     padding: 5px 0;
     width: 100%;
+}
+
+/* --- Video centered --- */
+
+.video-center
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
 }
