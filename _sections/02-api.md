@@ -9,4 +9,6 @@ business application.
 
 Discover the features of *Spot* and don't wait for making your business a success.
 
-[Spot overview](http://www.youtube.com/watch?v=1234567890)
+<iframe class="video-center" src="https://www.youtube.com/embed/sgj6WB-dDeY" frameborder="0" width="560" height="315">
+</iframe>
+
