@@ -48,7 +48,7 @@ The Objenious KIT is composed of :
    * A push-button
  * And finally, some wires and resistors
 
- ### Arduino libraries
+### Arduino libraries
 
  The packaged library for Arduino is available for download
  [here](/assets/files/ATIM_LoRa.zip).
