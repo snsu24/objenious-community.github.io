@@ -14,3 +14,6 @@ Discover the features of *SPOT* and don't wait for making your business a succes
 
 Don't wait to take a look to this [tutorial](/assets/files/devkit_tutorial_decodage.pdf) in order to decode your payload in *SPOT!*
 {: .text-center }
+
+Should you have any questions regarding our API (PUSH mode), please take a look at this [file](/assets/files/Objenious-ReceivingDeviceMessages-1.0.1.pdf).
+{: .text-center }
