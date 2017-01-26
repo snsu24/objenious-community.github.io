@@ -51,7 +51,7 @@ The Objenious KIT is composed of :
 ### Arduino libraries
 
  The packaged library for Arduino is available for download
- [here](/assets/files/ATIM_LoRa.zip).
+ [here](https://github.com/objenious-community/atim-lora/archive/master.zip).
 
  You can also clone the github repository
  [here](https://github.com/objenious-community/atim-lora).
